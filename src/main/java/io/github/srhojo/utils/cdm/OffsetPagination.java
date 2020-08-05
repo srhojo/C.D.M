@@ -2,7 +2,7 @@ package io.github.srhojo.utils.cdm;
 
 /**
  *
- * @author: srhojo
+ * @author srhojo
  * @see <a href="https://github.com/srhojo">GitHub</a>
  *
  */

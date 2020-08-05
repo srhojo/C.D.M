@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author: srhojo
+ * @author srhojo
  * @see <a href="https://github.com/srhojo">GitHub</a>
  *
  */
